@@ -1,0 +1,21 @@
+07-30-2023 09:40:14 AM - test_login - INFO : ***************** Test001Login **************** 
+07-30-2023 09:40:14 AM - test_login - INFO : ***************** Test Login Page Title **************** 
+07-30-2023 09:40:17 AM - test_login - INFO : ***************** test_login_page_title IS PASSED **************** 
+07-30-2023 09:40:22 AM - test_login - INFO : ***************** Test Login **************** 
+07-30-2023 09:40:29 AM - test_login - INFO : ***************** test_login HAS FAILED **************** 
+07-30-2023 09:40:34 AM - test_login - INFO : ***************** Test Login Page Title1 **************** 
+07-30-2023 09:40:36 AM - test_login - INFO : ***************** test_login_page_title1 IS PASSED **************** 
+07-30-2023 09:40:41 AM - test_login - INFO : ***************** Test Login1 **************** 
+07-30-2023 09:40:47 AM - test_login - INFO : ***************** test_login1 HAS FAILED **************** 
+07-30-2023 09:42:11 AM - selenium_manager - WARNING : Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5) 
+07-30-2023 09:42:11 AM - selenium_manager - WARNING : Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5) 
+07-30-2023 09:42:11 AM - selenium_manager - WARNING : Error getting version of chromedriver 115. Retrying with chromedriver 114 (attempt 1/5) 
+07-30-2023 09:42:12 AM - test_login - INFO : ***************** Test Login Page Title1 **************** 
+07-30-2023 09:42:15 AM - test_login - INFO : ***************** Test001Login **************** 
+07-30-2023 09:42:15 AM - test_login - INFO : ***************** Test Login Page Title **************** 
+07-30-2023 09:42:15 AM - test_login - INFO : ***************** Test Login **************** 
+07-30-2023 09:42:16 AM - test_login - INFO : ***************** Test Login1 **************** 
+07-30-2023 09:42:16 AM - test_login - INFO : ***************** test_login_page_title1 IS PASSED **************** 
+07-30-2023 09:42:18 AM - test_login - INFO : ***************** test_login_page_title IS PASSED **************** 
+07-30-2023 09:42:21 AM - test_login - INFO : ***************** test_login HAS FAILED **************** 
+07-30-2023 09:42:22 AM - test_login - INFO : ***************** test_login1 HAS FAILED **************** 
